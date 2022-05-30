@@ -1,5 +1,5 @@
 # showHideTab
-Function on JS native for show and hide tabs on click
+Function on JS native for show and hide tabs on click. 
 To use this script, you need to pass three arguments:
 1. All tabs that need to be connected.
 2. A box containing tabs.
